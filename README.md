@@ -1,6 +1,5 @@
 
-# PurePython (PyGL): A Hyper-Optimized Software Rasterizer
-
+# PurePython (PyGL)
 ![Project Status: Performance Pass 5 - Dynamic Resolution](https://img.shields.io/badge/Status-Performance%20Pass%205-blue)
 ![Language: Python](https://img.shields.io/badge/Language-Python-green)
 ![Dependencies: NumPy, Tkinter, Pillow](https://img.shields.io/badge/Dependencies-NumPy%2C%20Tkinter%2C%20Pillow-brightgreen)
