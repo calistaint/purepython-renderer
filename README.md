@@ -4,6 +4,8 @@
 ![Language: Python](https://img.shields.io/badge/Language-Python-green)
 ![Dependencies: NumPy, Tkinter, Pillow](https://img.shields.io/badge/Dependencies-NumPy%2C%20Tkinter%2C%20Pillow-brightgreen)
 
+<img width="1804" height="513" alt="purepython" src="https://github.com/user-attachments/assets/657b97b8-b0f2-4afa-941f-8837d463984b" />
+
 ## 🚀 Overview
 
 **PurePython** (or PyGL) is a custom, educational 3D software rasterizer built from scratch using pure Python, leveraging the power of **NumPy** for extreme performance through vectorization.
