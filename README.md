@@ -1,5 +1,5 @@
 
-# NumPyGL (PyGL): A Hyper-Optimized Software Rasterizer
+# PurePython (PyGL): A Hyper-Optimized Software Rasterizer
 
 ![Project Status: Performance Pass 5 - Dynamic Resolution](https://img.shields.io/badge/Status-Performance%20Pass%205-blue)
 ![Language: Python](https://img.shields.io/badge/Language-Python-green)
@@ -7,7 +7,7 @@
 
 ## 🚀 Overview
 
-**NumPyGL** (or PyGL) is a custom, educational 3D software rasterizer built from scratch using pure Python, leveraging the power of **NumPy** for extreme performance through vectorization.
+**PurePython** (or PyGL) is a custom, educational 3D software rasterizer built from scratch using pure Python, leveraging the power of **NumPy** for extreme performance through vectorization.
 
 This project is not a wrapper for an existing graphics library; it implements the entire graphics pipeline—from ModelView-Projection matrices and vertex transformation to perspective divide, clipping, backface culling, and full-screen triangle rasterization with depth testing—all on the CPU.
 
@@ -43,7 +43,7 @@ pip install numpy pillow
 2. Execute the file from your terminal:
 
 ```bash
-python main.py
+python PythonGL.py
 ```
 
 ## 💻 Usage Example
@@ -51,7 +51,7 @@ python main.py
 The `main.py` file includes a full working example that renders a rotating 3D colored cube, demonstrating the core functionality and performance features.
 
 ```python
-# Snippet from main.py
+# Snippet from PythonGL.py
 def example_solid_cube():
     gl = PyGL()
     gl.init_display(800, 600)
