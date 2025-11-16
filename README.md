@@ -1,6 +1,5 @@
 
 # PurePython (PyGL)
-![Project Status: Performance Pass 5 - Dynamic Resolution](https://img.shields.io/badge/Status-Performance%20Pass%205-blue)
 ![Language: Python](https://img.shields.io/badge/Language-Python-green)
 ![Dependencies: NumPy, Tkinter, Pillow](https://img.shields.io/badge/Dependencies-NumPy%2C%20Tkinter%2C%20Pillow-brightgreen)
 
@@ -12,7 +11,7 @@
 
 This project is not a wrapper for an existing graphics library; it implements the entire graphics pipeline—from ModelView-Projection matrices and vertex transformation to perspective divide, clipping, backface culling, and full-screen triangle rasterization with depth testing—all on the CPU.
 
-### Performance Pass 5: Dynamic Resolution
+### Performance: Dynamic Resolution
 
 The current version integrates an advanced performance feature: **Dynamic Resolution Scaling**. This system continuously monitors the frame rate and automatically adjusts the internal rendering resolution to maintain a target FPS, ensuring a smooth experience even on slower machines or during complex scenes.
 
